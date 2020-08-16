@@ -1,0 +1,7 @@
+﻿program p_name ;
+begin
+write ( ' string ' )
+readln ( var )
+variable : = ab + cd ;
+writeln ( var )
+end
